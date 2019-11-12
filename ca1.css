@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(59, 59, 55);
+    font-family: sans-serif;
+    color:white;
+}
+
+.enginesul{
+    list-style-type: disc;
+    font-size:24px;
+}
+
+.typesul{
+    list-style-type: disc;
+    font-size:24px;
+}
+
+.brandsul{
+    list-style-type: disc;
+    font-size:24px;
+}
+
+.historyul{
+    list-style-type: disc;
+    font-size:24px;
+}
+
+.mainol{
+    font-size: 32px;
+}
+
+.a{
+    
+}
+
+.b{
+
+}
+
+.c{
+
+}
+
+.d{
+
+}
